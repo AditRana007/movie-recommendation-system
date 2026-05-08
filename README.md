@@ -198,5 +198,3 @@ Running `eda.py` generates these 7 charts inside the `plots/` folder:
 - [scikit-learn TF-IDF Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 - Koren, Y. (2009). *Matrix Factorization Techniques for Recommender Systems*. IEEE Computer.
 
----
-
